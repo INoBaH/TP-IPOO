@@ -1,5 +1,5 @@
 <?php
-require_once('viajeFeliz.php');
+require_once('Viaje.php');
 echo"Bienvenido\n";
 echo "Por favor ingrese los siguientes datos que se le mostraran a continuacion:\n";
 echo"\n";
